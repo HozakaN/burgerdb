@@ -6,7 +6,7 @@
     },
     {
       "name": "burger2",
-      "price": 7.0
+      "price": 8.0
     },
     {
       "name": "burger3",
@@ -15,10 +15,6 @@
     {
       "name": "burger4",
       "price": 11.5
-    },
-    {
-      "name": "burger5",
-      "price": 14.8
     }
   ]
 }
